@@ -29,31 +29,6 @@ Additionally, the data collected is utilized to 3 applications:
   - Recommends recipes based on available ingredients.
   - Automatically generates a shopping list for missing ingredients.
 
-## Installation
-
-### Prerequisites
-- Python 3.7 or later
-- Required libraries (you can install them via pip):
-  ```bash
-  pip install -r requirements.txt
-
-## Setup
-- Clone the repository
-```bash
-git clone https://github.com/christopher540/smart-fridge-hack4sdg-2024-final.git
-```
-- Navigate to the project directory:
-```bash
-cd smart-fridge-hack4sdg-2024-final
-```
-- Make a .env file with the content
-```bash
-API_KEY= 'Your API Key'
-```
-- Run the main application:
-```bash
-streamlit run main.py
-```
 
 
 
